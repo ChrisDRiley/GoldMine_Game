@@ -1,3 +1,3 @@
 "# GoldMine_Game" 
 
-This was a game created using knowledge from my Data Structures and Algorithms class.
+This is a C++ in which you select tiles on a 2D array in an effort to find the hidden gold.
